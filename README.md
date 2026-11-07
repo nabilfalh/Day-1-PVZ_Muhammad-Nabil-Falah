@@ -10,7 +10,7 @@ tempat penyimpanan digital terpusat untuk mengelola, mengatur, dan mengamankan b
 
 3. Rangkuman Materi
 
-Workshop ini membahas dua hal: membuat sesuatu dengan AI (prompt engineering) dan mengelola perubahan dengan Git/GitHub. Prompt yang baik memakai struktur Role, Task, Context, dan Format. Git adalah version control lokal, sedangkan GitHub adalah platform online untuk menyimpan repository dan berkolaborasi. Alur Git: working directory → staging area (git add) → repository (git commit) → GitHub (git push). Setup mencakup instal Git dan VS Code, atur identitas, dan buat SSH key. Proyek praktiknya adalah Student Task Planner.
+Workshop ini membahas dua hal: membuat sesuatu dengan AI (prompt engineering) dan mengelola perubahan dengan Git/GitHub. Prompt yang baik memakai struktur Role, Task, Context, dan Format. Git adalah version control lokal, sedangkan GitHub adalah platform online untuk menyimpan repository dan berkolaborasi. Alur Git: working directory, staging area (git add), repository (git commit), GitHub (git push). Setup mencakup instal Git dan VS Code, atur identitas, dan buat SSH key. Proyek praktiknya adalah Student Task Planner.
 
 4. Poin Penting
 
